@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+nav p {
+  font-size: 24px;
+}
+img {
+  width: 100px !important;
+  height: 100px !important;
+}

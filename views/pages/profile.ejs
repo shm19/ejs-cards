@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <title>Profile</title>
+</head>
+
+<body>
+  <div class="container d-flex justify-content-center p-5">
+    <div class="card w-50">
+      <img class="card-img-top p-5" src=<%=img%> alt="Card image cap" />
+      <div class="card-body">
+        <span class="d-flex justify-content-between">
+          <h5>tittle &ensp;<%= tittle%>
+          </h5>
+        </span>
+        <span class="d-flex justify-content-between">
+          <h5>text <br>
+            <%= text%>
+          </h5>
+        </span>
+      </div>
+      <a href="/home">
+        <button class="btn btn-primary">Back</button>
+      </a>
+    </div>
+  </div>
+
+  </div>
+</body>
+
+</html>

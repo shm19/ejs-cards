@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "tittle": "assembly",
+    "text": "worst language ever",
+    "img": "/assests/assembly.png"
+  },
+  {
+    "id": 2,
+    "tittle": "c",
+    "text": "First language I saw",
+    "img": "/assests/c.png"
+  },
+  {
+    "id": 3,
+    "text": "Abbas knows it",
+    "tittle": "CSharp",
+    "img": "/assests/cSharp.png"
+  },
+  {
+    "id": 4,
+    "tittle": "docker",
+    "text": "Need shekan to use ",
+    "img": "/assests/docker.png"
+  },
+  {
+    "id": 5,
+    "tittle": "git",
+    "text": "Best version control",
+    "img": "/assests/git.png"
+  },
+  {
+    "id": 6,
+    "tittle": "java",
+    "text": "Quite familiar with it",
+    "img": "/assests/java.png"
+  },
+  {
+    "id": 7,
+    "tittle": "js",
+    "text": "tying to learn",
+    "img": "/assests/js.png"
+  },
+  {
+    "id": 8,
+    "tittle": "linux",
+    "text": "Best Os ever",
+    "img": "/assests/assmebly.png"
+  },
+  {
+    "id": 9,
+    "tittle": "php",
+    "text": "Don't have a clue from it",
+    "img": "/assests/php.png"
+  },
+  {
+    "id": 10,
+    "tittle": "python",
+    "text": "Think it's best langauge",
+    "img": "/assests/python.png"
+  },
+  {
+    "id": 11,
+    "tittle": "windows",
+    "text": "Biggest joke",
+    "img": "/assests/windows.png"
+  },
+  {
+    "id": 12,
+    "tittle": "something",
+    "text": "sometthing",
+    "img": "/assests/windows.png"
+  },
+  {
+    "id": 13,
+    "tittle": "something2",
+    "text": "something2",
+    "img": "/assests/windows.png"
+  }
+]
